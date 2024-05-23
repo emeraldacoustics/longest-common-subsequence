@@ -1,0 +1,11 @@
+#include "longest_common_subsequence.hpp"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	ios::sync_with_stdio(false);
+
+	return 0;
+}
